@@ -10,3 +10,7 @@ Likewise, this visualisation aims to display lines moving vertically downward th
 The proximity of lines at any point in time indicate spatial proximity, which could mean they are friends, lovers or colleagues.
 
 Lines may also begin and end according to birth and death; this staggered arrangement can show bereavement when one line carries on whilst another terminates.
+
+## Screenshot
+
+<img src="norns-screenshot.png">
