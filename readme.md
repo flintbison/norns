@@ -14,3 +14,9 @@ Lines may also begin and end according to birth and death; this staggered arrang
 ## Screenshot
 
 <img src="norns-screenshot.png">
+
+
+## Concept sketch
+
+<img src="norns-concept-sketch.jpeg">
+
